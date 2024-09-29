@@ -14,3 +14,5 @@ Hello, my name is Samuel. I am currently using a Windows machine, and I have ins
 - Node.js
 - Python
 
+### To install this software we would use this script 
+choco install vscode git googlechrome nodejs python
