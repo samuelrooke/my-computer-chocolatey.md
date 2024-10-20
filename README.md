@@ -17,6 +17,8 @@ Hello, my name is Samuel. I am currently using a Windows machine, and I have ins
 ### To install this software we would use this script 
 choco install vscode git googlechrome nodejs python
 
+### Chocolatey install script 
+Set-ExecutionPolicy Bypass -Scope Process -Force; iwr https://community.chocolatey.org/install.ps1 -UseBasicParsing | iex
 
 ![Screenshot 2024-10-20 212417](https://github.com/user-attachments/assets/e0cd2b6e-b6a7-4621-9529-752b11c94585)
 
